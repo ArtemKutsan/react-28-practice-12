@@ -13,15 +13,19 @@ function App() {
   return (
     <>
       <main>
-        <h1 className="container">React 28 Lesson</h1>
+        <h1 className="container">React 27 Lesson + 28 Practice 12</h1>
 
         <section>
           <div className="container">
-            <h2>Задача 1: Хук useRef</h2>
-            {/* <button ref={btnRef}>Click me</button> */}
-            {/* <ClickCounter /> */}
-            {/* <FleetButton /> */}
-            {/* <ScrollBox /> */}
+            {/* <h2>Задача 1: Хук useRef</h2>
+            <button ref={btnRef}>Click me</button> */}
+            {/* <h2>Задача 2: Хук useRef ClickCounter</h2>
+            <ClickCounter /> */}
+            {/* <h2>Задача 3: Хук useRef ToggleText</h2>
+            <FleetButton /> */}
+            {/* <h2>Задача 4: Хук useRef FleetButton</h2>
+            <ScrollBox /> */}
+            <h2>Задача 5: Хук useRef ToggleText</h2>
             <ToggleText />
           </div>
         </section>
