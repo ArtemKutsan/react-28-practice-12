@@ -21,9 +21,9 @@ function App() {
             <button ref={btnRef}>Click me</button> */}
             {/* <h2>Задача 2: Хук useRef ClickCounter</h2>
             <ClickCounter /> */}
-            {/* <h2>Задача 3: Хук useRef ToggleText</h2>
+            {/* <h2>Задача 3: Хук useRef FleetButton</h2>
             <FleetButton /> */}
-            {/* <h2>Задача 4: Хук useRef FleetButton</h2>
+            {/* <h2>Задача 4: Хук useRef ScrollBox</h2>
             <ScrollBox /> */}
             <h2>Задача 5: Хук useRef ToggleText</h2>
             <ToggleText />
